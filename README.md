@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amjad Shakhshir</h1>
-<h3 align="center">A backend/Fullstack developer loves to code usually using MERN stack and Typescript</h3>
+<h3 align="center">A Software Engineer, Frontend Focused (Full Stack)
 
-- 🔭 I’m currently working on [KuzeyArtist](https://Kuzeyartist.com)
-
-- 🌱 I’m currently learning **AWS, graphQL and PostgreSQL**
+- 🔭 I’m currently working on 
 
 - 👨‍💻 All of my projects are available at [https://amjadshakhshir.com](https://amjadshakhshir.com)
 
-- 💬 Ask me about **MERN stack, Typescript and JEST unit testing**
+- 💬 Ask me about **React, NextJs, NuxtJS, Typescript and JEST/Vitest unit testing**
 
 - 📫 How to reach me **info@amjadshakhshir.com**
 
